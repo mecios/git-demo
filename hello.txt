@@ -7,3 +7,4 @@ hello world!
 hello world!
 1234
 this is master test
+this is hot-fix test
